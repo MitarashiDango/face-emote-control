@@ -1,6 +1,6 @@
 {
-    "name": "com.matcha-soft.vrchat-avatar-utils.runtime",
-    "rootNamespace": "",
+    "name": "com.matcha-soft.vrchat-avatar-utils.core",
+    "rootNamespace": "MitarashiDango.AvatarUtils.Core",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

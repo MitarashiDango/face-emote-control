@@ -1,12 +1,13 @@
 using System.Collections.Generic;
 using System.Linq;
+using MitarashiDango.AvatarUtils.Core;
 using nadena.dev.ndmf;
 using nadena.dev.ndmf.vrchat;
 using UnityEditor.Animations;
 using UnityEngine;
 using static VRC.SDK3.Avatars.Components.VRCAvatarDescriptor;
 
-namespace MitarashiDango.AvatarUtils
+namespace MitarashiDango.AvatarUtils.Editor
 {
     public class AnimatorControllerModifierProcessor
     {

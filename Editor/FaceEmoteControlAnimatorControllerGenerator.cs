@@ -1,12 +1,13 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using MitarashiDango.AvatarUtils.Core.Editor;
 using UnityEditor.Animations;
 using UnityEngine;
 using VRC.SDK3.Avatars.Components;
 using VRC.SDKBase;
 
-namespace MitarashiDango.AvatarUtils
+namespace MitarashiDango.AvatarUtils.Editor
 {
     public class FaceEmoteControlAnimatorControllerGenerator
     {

@@ -1,11 +1,12 @@
 using System.Collections.Generic;
 using System.Linq;
+using MitarashiDango.AvatarUtils.Core.Editor;
 using UnityEditor;
 using UnityEngine;
 
-namespace MitarashiDango.AvatarUtils
+namespace MitarashiDango.AvatarUtils.Editor.EditorWindow
 {
-    public class ImportBlendShapesEditorWindow : EditorWindow
+    public class ImportBlendShapesEditorWindow : UnityEditor.EditorWindow
     {
         private GameObject _gameObject;
         private BlendShapeSet _blendShapeSet;

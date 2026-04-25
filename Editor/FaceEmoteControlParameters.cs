@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using nadena.dev.modular_avatar.core;
 
-namespace MitarashiDango.AvatarUtils
+namespace MitarashiDango.AvatarUtils.Editor
 {
     public class FaceEmoteControlParameters
     {

@@ -1,12 +1,14 @@
 {
-    "name": "com.matcha-soft.vrchat-avatar-utils",
-    "rootNamespace": "",
+    "name": "com.matcha-soft.vrchat-avatar-utils.experimental.editor",
+    "rootNamespace": "MitarashiDango.AvatarUtils.Experimental.Editor",
     "references": [
         "nadena.dev.ndmf",
         "nadena.dev.ndmf.vrchat",
         "nadena.dev.ndmf.runtime",
         "nadena.dev.modular-avatar.core",
-        "com.matcha-soft.vrchat-avatar-utils.runtime"
+        "com.matcha-soft.vrchat-avatar-utils.core",
+        "com.matcha-soft.vrchat-avatar-utils.experimental",
+        "com.matcha-soft.vrchat-avatar-utils.core.editor"
     ],
     "includePlatforms": [
         "Editor"

@@ -4,7 +4,7 @@ using nadena.dev.ndmf;
 using UnityEngine;
 using VRC.SDK3.Dynamics.Contact.Components;
 
-namespace MitarashiDango.AvatarUtils
+namespace MitarashiDango.AvatarUtils.Editor
 {
     public class FaceEmoteControlProcessor
     {

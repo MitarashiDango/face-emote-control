@@ -4,7 +4,7 @@ using nadena.dev.modular_avatar.core;
 using UnityEngine;
 using VRC.SDK3.Avatars.ScriptableObjects;
 
-namespace MitarashiDango.AvatarUtils
+namespace MitarashiDango.AvatarUtils.Editor
 {
     public class FaceEmoteControlMenuGenerator
     {

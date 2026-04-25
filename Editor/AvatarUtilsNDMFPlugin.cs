@@ -1,9 +1,9 @@
-using MitarashiDango.AvatarUtils;
+using MitarashiDango.AvatarUtils.Editor;
 using nadena.dev.ndmf;
 
 [assembly: ExportsPlugin(typeof(AvatarUtilsNDMFPlugin))]
 
-namespace MitarashiDango.AvatarUtils
+namespace MitarashiDango.AvatarUtils.Editor
 {
     public class AvatarUtilsNDMFPlugin : Plugin<AvatarUtilsNDMFPlugin>
     {

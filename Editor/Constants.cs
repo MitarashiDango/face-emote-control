@@ -1,4 +1,4 @@
-namespace MitarashiDango.AvatarUtils
+namespace MitarashiDango.AvatarUtils.Editor
 {
     public class Constants
     {

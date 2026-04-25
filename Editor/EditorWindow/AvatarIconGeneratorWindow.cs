@@ -5,9 +5,9 @@ using UnityEditor;
 using UnityEngine;
 using UnityEngine.Experimental.Rendering;
 
-namespace MitarashiDango.AvatarUtils
+namespace MitarashiDango.AvatarUtils.Editor.EditorWindow
 {
-    public class AvatarIconGeneratorWindow : EditorWindow
+    public class AvatarIconGeneratorWindow : UnityEditor.EditorWindow
     {
         private float PREVIEW_AREA_SIZE = 256;
         private AvatarRenderer _avatarRenderer;

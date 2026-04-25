@@ -1,0 +1,16 @@
+{
+    "name": "com.matcha-soft.vrchat-avatar-utils.experimental",
+    "rootNamespace": "MitarashiDango.AvatarUtils.Experimental",
+    "references": [
+        "GUID:fb0adebbfdd327146bb02ccf9f20af76"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

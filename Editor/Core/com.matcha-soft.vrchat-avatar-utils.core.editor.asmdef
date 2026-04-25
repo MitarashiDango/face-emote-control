@@ -1,0 +1,22 @@
+{
+    "name": "com.matcha-soft.vrchat-avatar-utils.core.editor",
+    "rootNamespace": "MitarashiDango.AvatarUtils.Core.Editor",
+    "references": [
+        "nadena.dev.ndmf",
+        "nadena.dev.ndmf.vrchat",
+        "nadena.dev.ndmf.runtime",
+        "nadena.dev.modular-avatar.core",
+        "com.matcha-soft.vrchat-avatar-utils.core"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
